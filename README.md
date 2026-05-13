@@ -1,10 +1,10 @@
 # Nistula Guest Message Webhook
 ### AI Powered Guest Communication Pipeline — Technical Assessment Submission
 
-**Candidate:** Thurubilli Sai Manoj
-**Role Applied:** Role C — AI and Integration
-**Assessment Window:** 48 hours
-**Submission Date:** 13th, May 2026
+**Candidate:** Thurubilli Sai Manoj  
+**Role Applied:** Role C — AI and Integration  
+**Assessment Window:** 48 hours  
+**Submission Date:** 13th, May 2026  
 **Repository:** [github.com/ThurubilliSaiManoj2026/nistula-technical-assessment](https://github.com/ThurubilliSaiManoj2026/nistula-technical-assessment)
 
 ---
@@ -431,4 +431,4 @@ See `.env.example` for the template. The actual `.env` file is listed in `.gitig
 
 ## Note on Model Deprecation
 
-The assessment brief specified `claude-sonnet-4-20250514`. During testing, the Anthropic SDK raised a deprecation warning indicating this model reaches end-of-life on June 15, 2026. All 7 tests pass and the full system is functional with this model for the duration of this assessment. In a production deployment, the `MODEL` constant in `src/claude_client.py` would be updated to the latest stable Claude Sonnet model string before the deprecation date. The model string is isolated to a single named constant, making this a one line change with no other code modifications required.
+The assessment brief specified `claude-sonnet-4-20250514`. During testing, the Anthropic SDK raised a deprecation warning indicating this model reaches end-of-life on June 15, 2026. All 7 tests pass and the full system is functional with this model for the duration of this assessment. In a production deployment, the `MODEL` constant in `src/claude_client.py` would be updated to the latest stable Claude Sonnet model string before the deprecation date. The model string is isolated to a single named constant, making this a one-line change with no other code modifications required.
