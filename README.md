@@ -3,7 +3,7 @@
 
 **Candidate:** Thurubilli Sai Manoj  
 **Role Applied:** Role C — AI and Integration  
-**Assessment Window:** 48 hours  
+**Assessment Window:** 48 Hours  
 **Submission Date:** 13th, May 2026  
 **Repository:** [github.com/ThurubilliSaiManoj2026/nistula-technical-assessment](https://github.com/ThurubilliSaiManoj2026/nistula-technical-assessment)
 
