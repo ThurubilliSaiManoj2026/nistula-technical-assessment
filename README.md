@@ -397,7 +397,7 @@ The six tables are `properties` (villa inventory, synced with the PMS), `guests`
 | Environment | python-dotenv                                    |
 | Database    | PostgreSQL (schema designed, not wired for demo) |
 
-**Why FastAPI over Django:** This is a pure API service — no templating, no ORM, no admin panel. FastAPI is async-native (non-blocking Claude API calls), Pydantic-native (zero-boilerplate validation), and produces auto-generated OpenAPI docs with no additional configuration. Django's value lies in its full-stack batteries-included ecosystem, none of which is relevant for a webhook pipeline.
+**Why FastAPI over Django:** This is a pure API service — no templating, no ORM, no admin panel. FastAPI is async-native (non-blocking Claude API calls), Pydantic-native (zero-boilerplate validation), and produces auto-generated OpenAPI docs with no additional configuration. Django's value lies in its full stack batteries-included ecosystem, none of which is relevant for a webhook pipeline.
 
 ---
 
